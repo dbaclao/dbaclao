@@ -4,10 +4,10 @@
   <a href="https://github.com/dbaclao">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/dbaclao">
+  <a href="https://www.behance.net/yelouuuu">
     <img style="cursor-pointer: default" src="https://img.shields.io/badge/Behance-%23121011.svg?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
-  <a href="https://github.com/dbaclao">
+  <a href="https://dribbble.com/yelouuuu">
     <img src="https://img.shields.io/badge/Dribbble-%23121011.svg?style=for-the-badge&logo=dribbble&logoColor=white"/>
   </a>
 </p>
