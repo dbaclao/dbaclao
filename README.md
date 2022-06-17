@@ -1,6 +1,5 @@
-<h1 align="left"> Front-End Developer & UI/UX Designer </h1>
+<h2 align="left"> Front-End Developer & UI/UX Designer </h2>
 
-<br>
 
 <h3 align="left"> Design Links </h3>
 <p align="left">
