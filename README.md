@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-%23121011.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/NodeJS-%23121011.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-%23121011.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 <h3 align="left"> Frameworks	 </h3>
