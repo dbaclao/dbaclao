@@ -1,7 +1,7 @@
 <h2 align="left"> Front-End Developer & UI/UX Designer </h2>
 
 
-<h3 align="left"> Design Links </h3>
+<h3 align="left"> Useful Links </h3>
 <p align="left">
   <a href="https://github.com/dbaclao">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&strokeWidth=1"/>
