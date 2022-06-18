@@ -43,6 +43,4 @@
     <img src="https://img.shields.io/badge/Adobe XD-%23121011.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe Photoshop-%23121011.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe Illustrator-%23121011.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Adobe Premiere Pro-%23121011.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Adobe After Effects-%23121011.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
 </p>
