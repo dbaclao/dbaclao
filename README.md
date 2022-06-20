@@ -1,8 +1,12 @@
 <h2 align="left"> Full Stack Web Developer & UI/UX Designer </h2>
 
-<a href="https://app.daily.dev/dbaclao">
-  <img src="https://github.com/dbaclao/dbaclao/blob/main/devcard.svg" width="400" alt="Louis Daniel Baclao's Dev Card"/>
-</a>
+<p>
+  <p align="left">
+    <a href="https://app.daily.dev/dbaclao">
+      <img src="https://github.com/dbaclao/dbaclao/blob/main/devcard.svg" width="250" alt="Louis Daniel Baclao's Dev Card"/>
+    </a>
+  </p>
+</p>
 
 <h3 align="left"> Useful Links </h3>
 <p align="left">
