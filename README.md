@@ -1,4 +1,4 @@
-<h2 align="left"> Front-End Developer & UI/UX Designer </h2>
+<h2 align="left"> Full Stack Web Developer & UI/UX Designer </h2>
 
 
 <h3 align="left"> Useful Links </h3>
